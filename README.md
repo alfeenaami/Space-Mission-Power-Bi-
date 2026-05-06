@@ -3,8 +3,6 @@
 
 ## 🌌 About the Project
 
-The **Space Mission Timeline Explorer** is an end-to-end Power BI analytics dashboard that explores **68 years of global space history** from **1957 to 2025**.
-
 This project analyzes **4,451 space missions** launched by **65 companies** across **18 countries** — covering everything from the Soviet Sputnik era to modern SpaceX launches.
 
 The dashboard answers key questions:
